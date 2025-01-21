@@ -47,8 +47,6 @@ BuzzHub is a real-time messaging platform built using the **MERN stack** (MongoD
     CLOUDINARY_CLOUD_NAME=<Your_Cloudinary_Cloud_Name>
     CLOUDINARY_API_KEY=<Your_Cloudinary_API_Key>
     CLOUDINARY_API_SECRET=<Your_Cloudinary_API_Secret>
-
-
 5. Start:
    ```bash
    npm run start
