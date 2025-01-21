@@ -39,5 +39,5 @@ BuzzHub is a real-time messaging platform built using the **MERN stack** (MongoD
    ```bash
    npm run build
 4. To the project:
- ```bash
+   ```bash
    npm run start
